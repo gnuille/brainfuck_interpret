@@ -3,7 +3,7 @@
 #include<stack>
 using namespace std;
 
-const int MAX_MEMORY = 999; #The memory cells you want 
+const int MAX_MEMORY = 30000; //#The number of 8 bit memory cells that the original brainfuck had  
 
 int main(){
     vector<char> memory(MAX_MEMORY, 0);
