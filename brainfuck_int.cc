@@ -4,6 +4,7 @@
 using namespace std;
 
 const int MAX_MEMORY = 30000; //#The number of 8 bit memory cells that the original brainfuck had  
+//you should show how brainfuck works, jej
 
 int main(){
     vector<char> memory(MAX_MEMORY, 0);
