@@ -43,7 +43,7 @@ int main(){
                 break;
             case ',':
                 char a;
-                cout<<"----ENTER A CHAR----"<<endl;
+                cout<<"---ENTER A CHAR---"<<endl; //Too much - XD
                 cin>>a;
                 memory[pointer] = a;
                 break;
